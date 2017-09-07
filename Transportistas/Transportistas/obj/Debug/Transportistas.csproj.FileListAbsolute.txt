@@ -1,0 +1,7 @@
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\bin\Debug\Transportistas.exe.config
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\bin\Debug\Transportistas.exe
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\bin\Debug\Transportistas.pdb
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\obj\Debug\Transportistas.csprojResolveAssemblyReference.cache
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\obj\Debug\Transportistas.csproj.CoreCompileInputs.cache
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\obj\Debug\Transportistas.exe
+C:\Users\carob\Documents\Visual Studio 2017\workspace\Transportistas\Transportistas\obj\Debug\Transportistas.pdb
